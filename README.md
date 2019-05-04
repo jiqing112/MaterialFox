@@ -2,14 +2,14 @@
 *一个使用 userChrome.css 的MD风格的 Firefox 主题*
 
 ![Preview](https://user-images.githubusercontent.com/5405629/45172944-21d91900-b24a-11e8-8bc5-03814121b0de.png)
-This theme is powered by blood, sweat, and coffee. If you like it, please consider helping out to support its continued development.
+这个主题被糖果咖啡所充能. 如果你喜欢, 请考虑捐助我们以进行后续的开发.
 
 [![Buy me a coffee](https://svgshare.com/i/8Yd.svg)](https://www.buymeacoffee.com/n4ho5QX2l)
 
 ## What this does
-Inspired by Google's Material Design and their latest Google Chrome UI, this theme turns your Firefox into a Material-styled web browser. The aim was to style the browser as closely as possible to the latest Google Chrome dev builds, where practical.
+受谷歌MD风格的设计和最新的 Chrome UI 的影响, 这个主题将使你的火狐变形一个MD风格的浏览器. 目标是最可能的接近最新构建的 Google Chrome dev.
 
-This is a userChrome.css theme, which means you must manually add it to your Firefox profile. The theme overrides certain browser styles. Currently, only the main UI is affected (settings pages, etc. are not). More elements of the UI may be styled in the future.
+这个使用了 userChrome.css 主题, 意味着你可以手动添加到firefox项目中. The theme overrides certain browser styles. Currently, only the main UI is affected (settings pages, etc. are not). More elements of the UI may be styled in the future.
 
 ## Installation
 Some steps involve accessing the about:config page. You can get there by typing it into your urlbar.
