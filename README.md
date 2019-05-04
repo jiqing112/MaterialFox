@@ -1,5 +1,5 @@
 # MaterialFox
-*A Material Design-inspired userChrome.css theme for Firefox*
+*一个使用 userChrome.css 的MD风格的 Firefox 主题*
 
 ![Preview](https://user-images.githubusercontent.com/5405629/45172944-21d91900-b24a-11e8-8bc5-03814121b0de.png)
 This theme is powered by blood, sweat, and coffee. If you like it, please consider helping out to support its continued development.
